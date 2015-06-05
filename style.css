@@ -1,0 +1,36 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	height: 1200px;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+a{
+	color: #333;
+}
+a:hover{
+	color: #00F;
+}
+div{
+	color: #333;
+}
+.bookmark{
+	position: fixed;
+	right: -62px;
+	top: 35%;
+}
+.bookmark-title{
+	float: left;
+	padding: 10px;
+	background: #0F0;
+}
+.social-icons-holder{
+	float: left;
+	background: #0F0;
+	padding: 5px 20px;
+	font-size: 26px;
+}
+.clear{ clear: both; }
